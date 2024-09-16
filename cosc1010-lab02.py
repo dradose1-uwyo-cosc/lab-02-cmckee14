@@ -1,9 +1,9 @@
-# Your Name Here
+# Chance McKee
 # UWYO COSC 1010
-# Submission Date
+# 09/16/24
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 14
+# Sources, people worked with, help given to: None
 # your
 # comments
 # here
